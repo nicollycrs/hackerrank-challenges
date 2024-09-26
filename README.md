@@ -1,2 +1,7 @@
 # hackerrank-challenges
-Este repositório contém soluções e discussões sobre desafios do HackerRank. Organizado por categorias, abrange problemas de algoritmos, estruturas de dados, matemática, e muito mais.
+
+## Descrição
+Este repositório contém soluções e discussões sobre desafios do HackerRank, organizados por "preparation kit".
+
+## Estrutura do Repositório
+- `preparation-kit-1/`: Descrições e soluções para o kit de preparação de 1 semana.
