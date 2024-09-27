@@ -1,4 +1,4 @@
-# hackerrank-challenges
+# HackerRank Challenges
 
 ## Descrição
 Este repositório contém soluções em Python sobre desafios do HackerRank, organizados por "preparation kit".
