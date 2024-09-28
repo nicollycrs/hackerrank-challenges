@@ -14,7 +14,11 @@ import sys
 #
 
 def countingSort(arr):
-    
+    """Sorts an integer array using the Counting Sort algorithm.
+
+    arr: list
+       An array of integers.
+    """
     frequency = [0] * 100  # Problem note: always return a frequency array with 100 elements
 
     for i in arr:
