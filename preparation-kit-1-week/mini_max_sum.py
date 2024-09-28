@@ -17,7 +17,7 @@ def miniMaxSum(arr):
     
     Parameters
     ----------
-    arr: INTEGER_ARRAY
+    arr: list
         An array of 5 integers.
     """
 
