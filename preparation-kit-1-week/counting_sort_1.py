@@ -16,6 +16,8 @@ import sys
 def countingSort(arr):
     """Sorts an integer array using the Counting Sort algorithm.
 
+    Parameters
+    ----------
     arr: list
        An array of integers.
     """
